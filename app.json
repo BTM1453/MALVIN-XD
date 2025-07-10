@@ -1,8 +1,8 @@
 {
   "name": "ᴍᴀʟᴠɪɴ-xᴅ",
   "description": "Javascript WhatsApp bot made by ᴍᴀʟᴠɪɴ ᴋɪɴɢ",
-  "logo": "https://files.catbox.moe/qumhu4.jpg",
-  "keywords": ["MALVIN XD"],
+  "logo": "https://telegra.ph/file/1ca6e6d9bf47973934d46-87a47377d0841863fb.jpg",
+  "keywords": ["AFLAH"],
   "success_url": "/",
 
     "stack": "container",
@@ -40,7 +40,7 @@
 
     "OWNER_NUMBER": {
       "description": "put the owner number for bot.",
-      "value": "263714757857"
+      "value": "91759396142"
       "required": true
       
    },
